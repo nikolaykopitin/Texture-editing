@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f11ec50f-9726-4d3f-9af0-e9ee664bd9df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cuaRR3EmT0o3Xuym85omwguXoq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\provo\PycharmProjects\ICG_2" />
+      <recent name="C:\Users\provo\PycharmProjects\IngCompGrap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IngCompGrap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IngCompGrap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\provo\PycharmProjects\ICG_2\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f11ec50f-9726-4d3f-9af0-e9ee664bd9df" name="Default Changelist" comment="" />
+      <created>1591380923997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591380923997</updated>
+      <workItem from="1591380925324" duration="639000" />
+      <workItem from="1591390930411" duration="660000" />
+      <workItem from="1591435687695" duration="478000" />
+      <workItem from="1591439837975" duration="585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="121" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591435800158">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="433" y="121" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1591435800158" />
+    <state width="1485" height="210" key="GridCell.Tab.0.bottom" timestamp="1591436165654">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1485" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591436165654" />
+    <state width="1485" height="210" key="GridCell.Tab.0.center" timestamp="1591436165654">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1485" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591436165654" />
+    <state width="1485" height="210" key="GridCell.Tab.0.left" timestamp="1591436165654">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1485" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591436165654" />
+    <state width="1485" height="210" key="GridCell.Tab.0.right" timestamp="1591436165654">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1485" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591436165654" />
+    <state x="175" y="0" key="SettingsEditor" timestamp="1591381093854">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="175" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591381093854" />
+  </component>
+</project>
